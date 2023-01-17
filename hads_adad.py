@@ -35,7 +35,7 @@ while True :
                         break
                     else :
                         print ("\nInvalid input\n")
-                        pass
+                        
             if nn == 1 :
                 break
 
@@ -69,7 +69,7 @@ while True :
                         break
                     else :
                         print ("\nInvalid input\n")
-                        pass
+                        
             if nn == 1 :
                 break
 
@@ -104,7 +104,7 @@ while True :
                         break
                     else :
                         print ("\nInvalid input\n")
-                        pass
+                        
             if nn == 1 :
                 break
     
@@ -112,4 +112,4 @@ while True :
         break
     else :
         print ("\nInvalid input\n")
-        pass
+        
