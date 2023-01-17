@@ -1,5 +1,5 @@
 import random as rn
-nn =0
+
 while True :
     nn =0
     print ("easy range(1,50) ,normal range(1,200) ,hard range(1,500)")
