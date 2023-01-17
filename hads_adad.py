@@ -13,7 +13,7 @@ while True :
 
             if op < 1 or op > 50 :
                 print ("\nInvalid input\n")
-                pass
+                
             elif op > add :
                 print ("The desired number is smaller.")
                 a = a + 1
@@ -47,7 +47,7 @@ while True :
 
             if op < 1 or op > 200 :
                 print ("\nInvalid input\n")
-                pass
+                
             elif op > add :
                 print ("The desired number is smaller.")
                 a = a + 1
@@ -82,7 +82,7 @@ while True :
             
             if op < 1 or op > 500 :
                 print ("\nInvalid input\n")
-                pass
+                
             elif op > add :
                 print ("The desired number is smaller.")
                 a = a + 1
